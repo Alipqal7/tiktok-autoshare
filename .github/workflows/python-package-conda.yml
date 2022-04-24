@@ -17,5 +17,5 @@ jobs:
     - name: install module
       run: pip3 install flash requests pystyle
     - name: Run
-      run: python main.py
+      run: python# main.py
     
