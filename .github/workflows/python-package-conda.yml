@@ -9,7 +9,7 @@ jobs:
       max-parallel: 5
 
     steps:
-    - uses: actions/checkout@v3
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -17,5 +17,5 @@ jobs:
     - name: install module
       run: pip3 install flash requests pystyle
     - name: Run
-      run: pyhton main.py
+      run: python main.py
     
