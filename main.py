@@ -99,7 +99,7 @@ def ClearURI(link):
 
 if __name__ == "__main__":
     Clear()
-    itemID = "https://www.tiktok.com/@alipje29/video/6975341852279000322?is_from_webapp=1&sender_device=pc"
+    itemID = "https://www.tiktok.com/@alipje29/video/7090119331685682458?is_from_webapp=1&sender_device=pc"
     amount = "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
     NThread = "500"
 
